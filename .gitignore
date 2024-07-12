@@ -1,0 +1,13 @@
+# This is for API
+/api/node_modules/
+/api/applicationlog/
+/api/app/scheduler/mofa/applicationlog/
+
+# This is for WEB
+/ops/node_modules/
+/ops/dist/
+
+/online/node_modules/
+/online/dist/
+
+/.idea
